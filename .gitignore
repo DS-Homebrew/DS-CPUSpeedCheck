@@ -1,0 +1,10 @@
+*/build
+*.dsi
+*.nds
+*.cia
+*.elf
+data/*.bin
+.vscode
+*.DS_Store
+
+arm9/include/version.h
